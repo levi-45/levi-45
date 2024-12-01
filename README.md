@@ -1,5 +1,3 @@
-* ## Hi there 👋
-
 <a href="https://Ko-fi.com/levi45"><img src="https://github.com/levi-45/levi-45/blob/master/coffe.jpeg"></a>
 
 <!--
