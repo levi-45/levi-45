@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://Ko-fi.com/levi45"><img src="https://raw.githubusercontent.com/levi-45/Manager/main/usr/lib/enigma2/python/Plugins/Extensions/Manager/res/pics/logo.png"></a>
+
 <!--
 **levi-45/levi-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
